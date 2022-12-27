@@ -4,7 +4,7 @@
 ## QA engineer 
 
 ## My CV 
-[Link to my CV](https://drive.google.com/file/d/1J7z5pUbmuS1AKK71uWA_aXEQBhZvmAir/view?usp=share_link)
+[Link to my CV](https://drive.google.com/file/d/1J7z5pUbmuS1AKK71uWA_aXEQBhZvmAir/view?usp=share_link)  
 [Резюме на русском](https://drive.google.com/file/d/1YQCOIqCqy8_QjIHTZTcKPpyqWSvg128d/view?usp=sharing)
 
 ###  Tools:
